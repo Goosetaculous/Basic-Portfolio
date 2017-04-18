@@ -65,6 +65,7 @@ section {
     font-size: larger;
     width: 640px;
     float: left;
+    height: 600px;
 }
 .content-text {
     color: grey;
@@ -134,7 +135,7 @@ button {
 
 /* Add background images to each box */
 .box1 {
-    background:url("assets/images/html.png");
+    background:url("assets/images/js.png");
 }
 .box2 {
     background:url("assets/images/html.png");}
